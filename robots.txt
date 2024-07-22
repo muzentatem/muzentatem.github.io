@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://muzentatem.github.io/sitemap
+Sitemap: https://muzentatem.github.io/app/sitemap
+Sitemap: https://muzentatem.github.io/assets/sitemap
+Sitemap: https://muzentatem.github.io/css/sitemap
+Sitemap: https://muzentatem.github.io/includes/sitemap
+Sitemap: https://muzentatem.github.io/item/sitemap
+Sitemap: https://muzentatem.github.io/src/sitemap
